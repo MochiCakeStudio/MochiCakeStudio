@@ -8,5 +8,4 @@
 ![MochiCakeStudio's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?mochicakestudio)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MochiCakeStudio&layout=compact)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mochicakestudio&theme=dark&hide_border=true&ring=89EBAA&fire=E6EBA1&currStreakLabel=3BA5EB&sideNums=EB90C0)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mochicakestudio&theme=dark&hide_border=true&ring=89EBAA&fire=E6EBA1&currStreakLabel=3BA5EB&sideNums=EB90C0" alt="GitHub Streak" /></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
